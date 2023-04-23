@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me :
 
-- 💬 Ask me about **Python, Javascript**
+- 💬 Ask me about **Python, Javascript, Java spring boot, AWS**
 
 - 📫 How to reach me ****
 
