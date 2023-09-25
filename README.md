@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **Python, Javascript, Java spring boot, AWS**
 
-- 📫 How to reach me ****
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/elvin-alvarez)
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **Data Analytics & ML in Python**
 
 
 <div align="left">
